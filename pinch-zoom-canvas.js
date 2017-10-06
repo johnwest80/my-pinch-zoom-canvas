@@ -1,10 +1,10 @@
 (function (root, factory) {
 	if ( typeof define === "function" && define.amd ) {
-		define(["impetus"], function(Impetus){
+		define(["my-impetus"], function(Impetus){
 			return (root.PinchZoomCanvas = factory(Impetus));
 		});
 	} else if(typeof module === "object" && module.exports) {
-		module.exports = (root.PinchZoomCanvas = factory(require("impetus")));
+		module.exports = (root.PinchZoomCanvas = factory(require("my-impetus")));
 	} else {
 		root.PinchZoomCanvas = factory(root.Impetus);
 	}
