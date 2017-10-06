@@ -1,6 +1,6 @@
 {
-  "name": "pinch-zoom-canvas",
-  "version": "1.0.3",
+  "name": "my-pinch-zoom-canvas",
+  "version": "1.0.0",
   "description": "Pinch zoom to images based on canvas",
   "main": "pinch-zoom-canvas.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vash15/pinch-zoom-canvas.git"
+    "url": "git+https://github.com/johnwest80/my-pinch-zoom-canvas.git"
   },
   "keywords": [
     "pinch",
@@ -20,15 +20,15 @@
     "vanilla",
     "code"
   ],
-  "author": "Michele Belluco",
+  "author": "John West forked from Michele Belluco",
   "contributors": [
 	  "Matteo Baggio"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vash15/pinch-zoom-canvas/issues"
+    "url": "https://github.com/johnwest80/my-pinch-zoom-canvas/issues"
   },
-  "homepage": "https://github.com/vash15/pinch-zoom-canvas#readme",
+  "homepage": "https://github.com/johnwest80/my-pinch-zoom-canvas#readme",
   "dependencies": {
 	"impetus": "https://github.com/SonoIo/impetus.git#master"
   }
