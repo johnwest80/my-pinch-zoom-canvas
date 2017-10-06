@@ -30,6 +30,6 @@
   },
   "homepage": "https://github.com/johnwest80/my-pinch-zoom-canvas#readme",
   "dependencies": {
-	"impetus": "https://github.com/SonoIo/impetus.git#master"
+	"impetus": "my-impetus@1.0.0"
   }
 }
