@@ -1,6 +1,6 @@
 {
   "name": "my-pinch-zoom-canvas",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Pinch zoom to images based on canvas",
   "main": "pinch-zoom-canvas.js",
   "scripts": {
@@ -30,6 +30,6 @@
   },
   "homepage": "https://github.com/johnwest80/my-pinch-zoom-canvas#readme",
   "dependencies": {
-	"impetus": "my-impetus@1.0.0"
+	"my-impetus": "1.0.0"
   }
 }
